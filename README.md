@@ -5,7 +5,7 @@ This is the repository of TAN, Jose Tristan T. for IMAGPRO S11.
 ## Groupmate Repositories
 ARCETA, Althea Zyrie M.:
 
-[Repo]()
+[Repo](https://github.com/thea1210/IMAGPRO)
 
 DATARIO, Yasmin Audrey T.:
 
@@ -13,4 +13,4 @@ DATARIO, Yasmin Audrey T.:
 
 TUMALAD, Shawne Michael Q.:
 
-[Repo]()
+[Repo](https://github.com/smtLasalle/IMAGPRO-S11)
